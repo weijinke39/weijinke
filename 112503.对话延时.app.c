@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 #include<windows.h>
 void main(){
 	printf("男：你穿秋裤了吗?\n");
