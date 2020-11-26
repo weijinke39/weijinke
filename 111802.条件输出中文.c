@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main(){
 int a;
-scanf("%d",&a);
+scanf("%d",&a);    //&&表示而且，&结合scanf使用，表示要输出的，多个可排序。
 if(a<=-1){
 printf("你还有花呗没还，无法使用该程序");
 }
