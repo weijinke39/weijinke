@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main(){
 	int n;
-	printf("温馨提示，请输入1——20的数字");
+	printf("大学查询系统.\n温馨提示，请输入1——20的数字");
 	for(n=0;n<20;n++){
 	scanf("%d",&n); 
 	switch(n){
