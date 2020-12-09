@@ -16,6 +16,7 @@ int arr2d[9][10]={
 };
 	for(h=0;h<9;h++){
 	for(l=0;l<10;l++){
+		Sleep(100);
 		printf("%d ",arr2d[h][l]);
 }
 		printf("\n");
